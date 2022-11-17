@@ -21,6 +21,32 @@
     <Import Project="..\btd6.targets" />
 
     <ItemGroup>
+      <None Remove="AbraAssets\Abra-Icon.png" />
+      <None Remove="AbraAssets\AbraBaseDisplay.png" />
+      <None Remove="AbraAssets\Alakazam-Icon.png" />
+      <None Remove="AbraAssets\AlakazamDisplay.png" />
+      <None Remove="AbraAssets\Kadabra-Icon.png" />
+      <None Remove="AbraAssets\KadabraDisplay.png" />
+      <None Remove="AbraAssets\MegaAlakazam-Icon.png" />
+      <None Remove="AbraAssets\MegaAlakazamDisplay.png" />
+      <None Remove="AbraAssets\ShockWaveDisplay.png" />
       <None Remove="Icon.png" />
+      <None Remove="PichuAssets\LightningDisplay.png" />
+      <None Remove="PichuAssets\Pichu-Icon.png" />
+      <None Remove="PichuAssets\PichuBaseDisplay.png" />
+      <None Remove="PichuAssets\Pikachu-Icon.png" />
+      <None Remove="PichuAssets\PikachuDisplay.png" />
+      <None Remove="PichuAssets\Raichu-Icon.png" />
+      <None Remove="PichuAssets\RaichuDisplay.png" />
+      <None Remove="PidgeyAssets\HeliPadDisplay.png" />
+      <None Remove="PidgeyAssets\MegaPidgeot-Icon.png" />
+      <None Remove="PidgeyAssets\MegaPidgeotDisplay.png" />
+      <None Remove="PidgeyAssets\Pidgeot-Icon.png" />
+      <None Remove="PidgeyAssets\PidgeotDisplay.png" />
+      <None Remove="PidgeyAssets\Pidgeotto-Icon.png" />
+      <None Remove="PidgeyAssets\PidgeottoDisplay.png" />
+      <None Remove="PidgeyAssets\Pidgey-Icon.png" />
+      <None Remove="PidgeyAssets\PidgeyBaseDisplay.png" />
+      <None Remove="PidgeyAssets\ScratchDisplay.png" />
     </ItemGroup>
 </Project>
